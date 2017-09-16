@@ -1,4 +1,3 @@
-alert("Hello everyone this is VD Gallery, if you need to give us a prompt or help, tell us in the social contacts!!")
 
 function resizeImg (img)
       {
